@@ -31,7 +31,8 @@ const Intro = () =>{
          </div>
 
     <div className="i-right">
-        koko
+        {/* todo:square photo add*/}
+        Square Photo
     </div>
 
 </div>
